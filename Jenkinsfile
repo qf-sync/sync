@@ -1,7 +1,9 @@
  pipeline{
 
   stages{
-
+     statge(notify){
+       
+     }
 }
 
 }
