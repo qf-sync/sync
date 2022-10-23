@@ -4,6 +4,9 @@
      statge(notify){
        
      }
+   stage(prepare){
+      echo "hello world"
+   }
 }
 
 }
